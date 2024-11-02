@@ -1,4 +1,4 @@
-<h1 align="center">Desenvolvedor Web FullStack</h1>
+<h1 align="center">Desenvolvedor Full Stack</h1>
 
 <p align="center">
     📚 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong><br>
