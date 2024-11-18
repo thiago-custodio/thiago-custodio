@@ -2,7 +2,7 @@
 
 <p align="center">
     📚 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-    🌱 Aprendendo sobre Python com foco em Desenvolvimento Full Stack
+    🌱 Aprendendo sobre Python com foco em Desenvolvimento Full Stack utilizando Django e FastAPI
 </p>
 
 <h2 align="center">
