@@ -21,5 +21,5 @@
 <hr>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/2938eeed-2435-4091-b18b-04eb63d247d9" alt="mario-coding" width="960" height="432">
+    <img src="https://github.com/user-attachments/assets/2938eeed-2435-4091-b18b-04eb63d247d9" alt="mario-coding" width="960" height="533">
 </p>
